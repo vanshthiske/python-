@@ -53,4 +53,4 @@ This repository contains a complete Python revision guide with **49 topics** org
 
 ### Part 6: Error Handling
 - [22 - Exception Handling](22_exception_handling.py)
-- [23 - Custom Exceptions](23_custom_exceptions
+- [23 - Custom Exceptions](23_custom_exceptions)
