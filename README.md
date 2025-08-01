@@ -4,9 +4,9 @@ A comprehensive Python learning repository covering all essential concepts from 
 
 ## 📚 Repository Contents
 
-This repository contains a complete Python revision guide with **30 comprehensive topics** organized into logical sections. Each topic is presented as an interactive Jupyter notebook with detailed explanations, practical examples, and executable code demonstrations.
+This repository contains a complete Python revision guide with **27 comprehensive topics** organized into logical sections. Each topic is presented as an interactive Jupyter notebook with detailed explanations, practical examples, and executable code demonstrations.
 
-### 🎯 What You'll Learn
+### 🎯 Topics
 
 - **Python Fundamentals**: Variables, data types, strings, numbers, I/O operations
 - **Data Structures**: Lists, tuples, sets, dictionaries, collections module, List Comprehensions and Iterators, regex
