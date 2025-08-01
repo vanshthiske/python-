@@ -64,6 +64,3 @@ This repository contains a complete Python revision guide with **27 comprehensiv
 - [26 - Machine Learning with Scikit-Learn](https://github.com/vanshthiske/python-/blob/main/9.%20Advanced%20Data%20Science%20(Topics%2024-27)/25_sklearn_basics.ipynb)
 - [27 - Web Scraping](https://github.com/vanshthiske/python-/blob/main/9.%20Advanced%20Data%20Science%20(Topics%2024-27)/27_web_scraping.ipynb)
 
-## 🚀 Getting Started
-
-### Prerequisites
