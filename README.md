@@ -9,12 +9,12 @@ This repository contains a complete Python revision guide with **30 comprehensiv
 ### 🎯 What You'll Learn
 
 - **Python Fundamentals**: Variables, data types, strings, numbers, I/O operations
-- **Data Structures**: Lists, tuples, sets, dictionaries, collections module, List Comprehensions and Iterators
+- **Data Structures**: Lists, tuples, sets, dictionaries, collections module
 - **Control Flow**: Conditionals, loops, loop control, exception handling
 - **Functions & Scope**: Regular functions, lambda functions, scope management
 - **File Operations**: File I/O, CSV/JSON handling, data persistence
 - **Object-Oriented Programming**: Classes, inheritance, polymorphism, encapsulation
-- **Context Management**: Resource handling, with statements, custom managers
+- **Advanced Python Concepts**: Comprehensions, decorators, generators, regex, context managers
 - **Data Science Stack**: NumPy, Pandas, Matplotlib for data analysis
 - **Specialized Skills**: Seaborn visualization, machine learning, web scraping
 
@@ -32,35 +32,38 @@ This repository contains a complete Python revision guide with **30 comprehensiv
 - [07 - Sets](notebooks/07_sets.ipynb)
 - [08 - Dictionaries](notebooks/08_dictionaries.ipynb)
 - [09 - Collections Module](notebooks/09_collections.ipynb)
-- [10 - List Comprehensions and Iterators](notebooks/20_comprehensions_iterators.ipynb)
 
 ### Part 3: Control Flow (Topics 10-12)
-- [11 - Conditional Statements](notebooks/10_conditionals.ipynb)
-- [12 - Loops](notebooks/11_loops.ipynb)
-- [13 - Loop Control](notebooks/12_loop_control.ipynb)
+- [10 - Conditional Statements](notebooks/10_conditionals.ipynb)
+- [11 - Loops](notebooks/11_loops.ipynb)
+- [12 - Loop Control](notebooks/12_loop_control.ipynb)
 
 ### Part 4: Functions and Scope (Topics 13-15)
-- [14 - Functions](notebooks/13_functions.ipynb)
-- [15 - Lambda Functions](notebooks/14_lambda_functions.ipynb)
-- [16 - Scope and Variables](notebooks/15_scope_variables.ipynb)
+- [13 - Functions](notebooks/13_functions.ipynb)
+- [14 - Lambda Functions](notebooks/14_lambda_functions.ipynb)
+- [15 - Scope and Variables](notebooks/15_scope_variables.ipynb)
 
 ### Part 5: Error Handling and File Operations (Topics 16-18)
-- [17 - Exception Handling](notebooks/16_exception_handling.ipynb)
-- [18 - File Operations](notebooks/17_file_operations.ipynb)
-- [19 - CSV and JSON](notebooks/18_csv_json.ipynb)
+- [16 - Exception Handling](notebooks/16_exception_handling.ipynb)
+- [17 - File Operations](notebooks/17_file_operations.ipynb)
+- [18 - CSV and JSON](notebooks/18_csv_json.ipynb)
 
 ### Part 6: Object-Oriented Programming (Topic 19)
-- [20 - OOP Basics](notebooks/19_oop_basics.ipynb)
+- [19 - OOP Basics](notebooks/19_oop_basics.ipynb)
 
-### Part 7: Data Science Foundation (Topics 25-27)
-- [21 - NumPy Basics](notebooks/25_numpy_basics.ipynb)
-- [22 - Pandas Basics](notebooks/26_pandas_basics.ipynb)
-- [23 - Matplotlib Basics](notebooks/27_matplotlib_basics.ipynb)
+### Part 7: Advanced Python Concepts (Topics 20-24)
+- [20 - List Comprehensions and Iterators](notebooks/20_comprehensions_iterators.ipynb)
+- [21 - Regex](notebooks/23_regex.ipynb)
 
-### Part 8: Advanced Data Science (Topics 28-30)
-- [24 - Seaborn Statistical Visualizations](notebooks/28_seaborn_statistical.ipynb)
-- [25 - Machine Learning with Scikit-Learn](notebooks/29_sklearn_basics.ipynb)
-- [26 - Web Scraping](notebooks/30_web_scraping.ipynb)
+### Part 8: Data Science Foundation (Topics 25-27)
+- [22 - NumPy Basics](notebooks/25_numpy_basics.ipynb)
+- [23 - Pandas Basics](notebooks/26_pandas_basics.ipynb)
+- [24 - Matplotlib Basics](notebooks/27_matplotlib_basics.ipynb)
+
+### Part 9: Advanced Data Science (Topics 28-30)
+- [25 - Seaborn Statistical Visualizations](notebooks/28_seaborn_statistical.ipynb)
+- [26 - Machine Learning with Scikit-Learn](notebooks/29_sklearn_basics.ipynb)
+- [27 - Web Scraping](notebooks/30_web_scraping.ipynb)
 
 ## 🚀 Getting Started
 
