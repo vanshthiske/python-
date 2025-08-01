@@ -1,56 +1,74 @@
 # 🐍 Complete Python Revision Guide
 
-A comprehensive Python learning repository covering all essential concepts from basics to advanced topics, complete with examples, explanations, and practice problems.
+A comprehensive Python learning repository covering all essential concepts from basics to advanced data science, complete with detailed explanations, practical examples, and hands-on Jupyter notebooks.
 
 ## 📚 Repository Contents
 
-This repository contains a complete Python revision guide with **49 topics** organized into logical sections. Each topic includes detailed explanations, practical examples, and hands-on code demonstrations.
+This repository contains a complete Python revision guide with **30 comprehensive topics** organized into logical sections. Each topic is presented as an interactive Jupyter notebook with detailed explanations, practical examples, and executable code demonstrations.
 
 ### 🎯 What You'll Learn
 
-- **Python Fundamentals**: Variables, data types, operators
-- **Data Structures**: Lists, tuples, sets, dictionaries, collections
-- **Control Flow**: Conditionals, loops, exception handling
-- **Functions**: Regular functions, lambda functions, decorators, generators
+- **Python Fundamentals**: Variables, data types, strings, numbers, I/O operations
+- **Data Structures**: Lists, tuples, sets, dictionaries, collections module
+- **Control Flow**: Conditionals, loops, loop control, exception handling
+- **Functions & Scope**: Regular functions, lambda functions, scope management
+- **File Operations**: File I/O, CSV/JSON handling, data persistence
 - **Object-Oriented Programming**: Classes, inheritance, polymorphism, encapsulation
-- **File Operations**: Reading/writing files, CSV, JSON handling
-- **Advanced Topics**: Threading, context managers, metaclasses, type hints
-- **Data Science Basics**: NumPy, Pandas, Matplotlib introduction
-- **Real Projects**: Titanic dataset analysis, practice problems
+- **Advanced Python**: Comprehensions, decorators, generators, regular expressions
+- **Context Management**: Resource handling, with statements, custom managers
+- **Data Science Stack**: NumPy, Pandas, Matplotlib for data analysis
+- **Specialized Skills**: Seaborn visualization, machine learning, web scraping
 
 ## 📋 Table of Contents
 
-### Part 1: Fundamentals
-- [01 - Variables and Data Types](01_variables_and_data_types.py)
-- [02 - String Operations](02_string_operations.py)
-- [03 - Numbers and Math](03_numbers_and_math.py)
-- [04 - Input/Output Operations](04_input_output.py)
+### Part 1: Python Fundamentals (Topics 1-4)
+- [01 - Variables and Data Types](notebooks/01_variables_data_types.ipynb)
+- [02 - String Operations](notebooks/02_string_operations.ipynb)
+- [03 - Numbers and Math Operations](notebooks/03_numbers_math.ipynb)
+- [04 - Input/Output Operations](notebooks/04_input_output.ipynb)
 
-### Part 2: Data Structures
-- [05 - Lists](05_lists.py)
-- [06 - Tuples](06_tuples.py)
-- [07 - Sets](07_sets.py)
-- [08 - Dictionaries](08_dictionaries.py)
-- [09 - Collections Module](09_collections_module.py)
+### Part 2: Data Structures (Topics 5-9)
+- [05 - Lists](notebooks/05_lists.ipynb)
+- [06 - Tuples](notebooks/06_tuples.ipynb)
+- [07 - Sets](notebooks/07_sets.ipynb)
+- [08 - Dictionaries](notebooks/08_dictionaries.ipynb)
+- [09 - Collections Module](notebooks/09_collections.ipynb)
 
-### Part 3: Control Flow
-- [10 - Conditional Statements](10_conditionals.py)
-- [11 - Loops](11_loops.py)
-- [12 - Loop Control](12_loop_control.py)
+### Part 3: Control Flow (Topics 10-12)
+- [10 - Conditional Statements](notebooks/10_conditionals.ipynb)
+- [11 - Loops](notebooks/11_loops.ipynb)
+- [12 - Loop Control](notebooks/12_loop_control.ipynb)
 
-### Part 4: Functions and Scope
-- [13 - Functions](13_functions.py)
-- [14 - Lambda Functions](14_lambda_functions.py)
-- [15 - Scope and Variables](15_scope_variables.py)
-- [16 - Decorators](16_decorators.py)
-- [17 - Generators](17_generators.py)
+### Part 4: Functions and Scope (Topics 13-15)
+- [13 - Functions](notebooks/13_functions.ipynb)
+- [14 - Lambda Functions](notebooks/14_lambda_functions.ipynb)
+- [15 - Scope and Variables](notebooks/15_scope_variables.ipynb)
 
-### Part 5: Advanced Data Handling
-- [18 - List Comprehensions](18_list_comprehensions.py)
-- [19 - Dict and Set Comprehensions](19_dict_set_comprehensions.py)
-- [20 - Iterators and Iterables](20_iterators_iterables.py)
-- [21 - Enumerate and Zip](21_enumerate_zip.py)
+### Part 5: Error Handling and File Operations (Topics 16-18)
+- [16 - Exception Handling](notebooks/16_exception_handling.ipynb)
+- [17 - File Operations](notebooks/17_file_operations.ipynb)
+- [18 - CSV and JSON](notebooks/18_csv_json.ipynb)
 
-### Part 6: Error Handling
-- [22 - Exception Handling](22_exception_handling.py)
-- [23 - Custom Exceptions](23_custom_exceptions)
+### Part 6: Object-Oriented Programming (Topic 19)
+- [19 - OOP Basics](notebooks/19_oop_basics.ipynb)
+
+### Part 7: Advanced Python Concepts (Topics 20-24)
+- [20 - List Comprehensions and Iterators](notebooks/20_comprehensions_iterators.ipynb)
+- [21 - Decorators](notebooks/21_decorators.ipynb)
+- [22 - Generators](notebooks/22_generators.ipynb)
+- [23 - Regular Expressions](notebooks/23_regex.ipynb)
+- [24 - Context Managers](notebooks/24_context_managers.ipynb)
+
+### Part 8: Data Science Foundation (Topics 25-27)
+- [25 - NumPy Basics](notebooks/25_numpy_basics.ipynb)
+- [26 - Pandas Basics](notebooks/26_pandas_basics.ipynb)
+- [27 - Matplotlib Basics](notebooks/27_matplotlib_basics.ipynb)
+
+### Part 9: Advanced Data Science (Topics 28-30)
+- [28 - Seaborn Statistical Visualizations](notebooks/28_seaborn_statistical.ipynb)
+- [29 - Machine Learning with Scikit-Learn](notebooks/29_sklearn_basics.ipynb)
+- [30 - Web Scraping](notebooks/30_web_scraping.ipynb)
+
+## 🚀 Getting Started
+
+### Prerequisites
