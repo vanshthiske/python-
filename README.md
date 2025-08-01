@@ -43,26 +43,26 @@ This repository contains a complete Python revision guide with **27 comprehensiv
 - [15 - Scope and Variables](https://github.com/vanshthiske/python-/blob/main/4.%20Functions%20and%20Scope%20(Topics%2013-15)/15_scope_variables.ipynb)
 
 ### Part 5: Error Handling and File Operations (Topics 16-18)
-- [16 - Exception Handling](notebooks/16_exception_handling.ipynb)
-- [17 - File Operations](notebooks/17_file_operations.ipynb)
-- [18 - CSV and JSON](notebooks/18_csv_json.ipynb)
+- [16 - Exception Handling](https://github.com/vanshthiske/python-/blob/main/5.%20Error%20Handling%20and%20File%20Operations%20(Topics%2016-18)/16_exception_handling.ipynb)
+- [17 - File Operations](https://github.com/vanshthiske/python-/blob/main/5.%20Error%20Handling%20and%20File%20Operations%20(Topics%2016-18)/17_file_operations.ipynb)
+- [18 - CSV and JSON](https://github.com/vanshthiske/python-/blob/main/5.%20Error%20Handling%20and%20File%20Operations%20(Topics%2016-18)/18_csv_json.ipynb)
 
 ### Part 6: Object-Oriented Programming (Topic 19)
-- [19 - OOP Basics](notebooks/19_oop_basics.ipynb)
+- [19 - OOP Basics](https://github.com/vanshthiske/python-/blob/main/6.%20Object-Oriented%20Programming%20(Topic%2019)/19_oop_basics.ipynb)
 
-### Part 7: Advanced Python Concepts (Topics 20-24)
-- [20 - List Comprehensions and Iterators](notebooks/20_comprehensions_iterators.ipynb)
-- [21 - Regex](notebooks/23_regex.ipynb)
+### Part 7: Advanced Python Concepts (Topics 20-21)
+- [20 - List Comprehensions and Iterators](https://github.com/vanshthiske/python-/blob/main/7.%20Advanced%20Python%20Concepts%20(Topics%2020-21)/20_comprehensions_iterators.ipynb)
+- [21 - Regex](https://github.com/vanshthiske/python-/blob/main/7.%20Advanced%20Python%20Concepts%20(Topics%2020-21)/21_regex.ipynb)
 
-### Part 8: Data Science Foundation (Topics 25-27)
-- [22 - NumPy Basics](notebooks/25_numpy_basics.ipynb)
-- [23 - Pandas Basics](notebooks/26_pandas_basics.ipynb)
-- [24 - Matplotlib Basics](notebooks/27_matplotlib_basics.ipynb)
+### Part 8: Data Science Foundation (Topics 22-24)
+- [22 - NumPy Basics](https://github.com/vanshthiske/python-/blob/main/8.%20Data%20Science%20Foundation%20(Topics%2022-24)/22_numpy_basics.ipynb)
+- [23 - Pandas Basics](https://github.com/vanshthiske/python-/blob/main/8.%20Data%20Science%20Foundation%20(Topics%2022-24)/23_pandas_basics.ipynb)
+- [24 - Matplotlib Basics](https://github.com/vanshthiske/python-/blob/main/8.%20Data%20Science%20Foundation%20(Topics%2022-24)/24_matplotlib_basics.ipynb)
 
-### Part 9: Advanced Data Science (Topics 28-30)
-- [25 - Seaborn Statistical Visualizations](notebooks/28_seaborn_statistical.ipynb)
-- [26 - Machine Learning with Scikit-Learn](notebooks/29_sklearn_basics.ipynb)
-- [27 - Web Scraping](notebooks/30_web_scraping.ipynb)
+### Part 9: Advanced Data Science (Topics 25-27)
+- [25 - Seaborn Statistical Visualizations](https://github.com/vanshthiske/python-/blob/main/9.%20Advanced%20Data%20Science%20(Topics%2024-27)/25_seaborn_statistical.ipynb)
+- [26 - Machine Learning with Scikit-Learn](https://github.com/vanshthiske/python-/blob/main/9.%20Advanced%20Data%20Science%20(Topics%2024-27)/25_sklearn_basics.ipynb)
+- [27 - Web Scraping](https://github.com/vanshthiske/python-/blob/main/9.%20Advanced%20Data%20Science%20(Topics%2024-27)/27_web_scraping.ipynb)
 
 ## 🚀 Getting Started
 
