@@ -20,7 +20,7 @@ This repository contains a complete Python revision guide with **27 comprehensiv
 ## 📋 Table of Contents
 
 ### Part 1: Python Fundamentals (Topics 1-4)
-- [01 - Variables and Data Types](01_variables_data_types.ipynb)
+- [01 - Variables and Data Types](1. Python Fundamentals (Topics 1-4)/01_variables_and_data_types.ipynb)
 - [02 - String Operations](notebooks/02_string_operations.ipynb)
 - [03 - Numbers and Math Operations](notebooks/03_numbers_math.ipynb)
 - [04 - Input/Output Operations](notebooks/04_input_output.ipynb)
