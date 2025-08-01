@@ -9,12 +9,11 @@ This repository contains a complete Python revision guide with **30 comprehensiv
 ### 🎯 What You'll Learn
 
 - **Python Fundamentals**: Variables, data types, strings, numbers, I/O operations
-- **Data Structures**: Lists, tuples, sets, dictionaries, collections module
+- **Data Structures**: Lists, tuples, sets, dictionaries, collections module, List Comprehensions and Iterators, regex
 - **Control Flow**: Conditionals, loops, loop control, exception handling
 - **Functions & Scope**: Regular functions, lambda functions, scope management
 - **File Operations**: File I/O, CSV/JSON handling, data persistence
 - **Object-Oriented Programming**: Classes, inheritance, polymorphism, encapsulation
-- **Advanced Python Concepts**: Comprehensions, decorators, generators, regex, context managers
 - **Data Science Stack**: NumPy, Pandas, Matplotlib for data analysis
 - **Specialized Skills**: Seaborn visualization, machine learning, web scraping
 
