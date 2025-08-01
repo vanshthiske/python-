@@ -1,0 +1,7 @@
+# Application Configuration
+app_name = My Python App
+version = 1.0.0
+debug = true
+max_connections = 100
+timeout = 30.5
+allowed_hosts = localhost,127.0.0.1,example.com

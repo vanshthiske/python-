@@ -1,0 +1,35 @@
+[
+  {
+    "id": "1",
+    "title": "Laptop Computer",
+    "price": 999.99,
+    "description": "High-performance laptop for professionals",
+    "category": "Electronics",
+    "stars": 4,
+    "review_count": 245,
+    "image_src": "laptop.jpg",
+    "image_alt": "Laptop Computer"
+  },
+  {
+    "id": "2",
+    "title": "Wireless Headphones",
+    "price": 149.99,
+    "description": "Premium noise-cancelling headphones",
+    "category": "Electronics",
+    "stars": 5,
+    "review_count": 89,
+    "image_src": "headphones.jpg",
+    "image_alt": "Wireless Headphones"
+  },
+  {
+    "id": "3",
+    "title": "Coffee Maker",
+    "price": 79.99,
+    "description": "Automatic drip coffee maker",
+    "category": "Appliances",
+    "stars": 3,
+    "review_count": 156,
+    "image_src": "coffee-maker.jpg",
+    "image_alt": "Coffee Maker"
+  }
+]

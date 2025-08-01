@@ -1,0 +1,6 @@
+This is a sample text file.
+It contains multiple lines.
+Each line demonstrates file I/O operations.
+Python makes file handling easy!
+
+This line was appended later.

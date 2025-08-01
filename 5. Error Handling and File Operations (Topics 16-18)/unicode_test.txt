@@ -1,0 +1,1 @@
+Hello! 🐍 Python supports Unicode: αβγδε 中文 العربية 🌍

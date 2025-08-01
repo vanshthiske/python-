@@ -1,0 +1,4 @@
+id,title,price,description,category,stars,review_count,image_src,image_alt
+1,Laptop Computer,999.99,High-performance laptop for professionals,Electronics,4,245,laptop.jpg,Laptop Computer
+2,Wireless Headphones,149.99,Premium noise-cancelling headphones,Electronics,5,89,headphones.jpg,Wireless Headphones
+3,Coffee Maker,79.99,Automatic drip coffee maker,Appliances,3,156,coffee-maker.jpg,Coffee Maker

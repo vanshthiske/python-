@@ -1,0 +1,7 @@
+Hello, World!
+This is a sample text file.
+It contains multiple lines.
+Python file handling is powerful!
+
+Numbers: 1, 2, 3, 4, 5
+Special characters: @#$%^&*()
